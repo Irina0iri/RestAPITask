@@ -1,0 +1,10 @@
+
+[{"numberOfFloors":1,"quality":"premium","SeaView":true},
+{"numberOfFloors":2,"quality":"non-premium","SeaView":true},
+{"numberOfFloors":3,"quality":"premium","SeaView":true},
+{"numberOfFloors":1,"quality":"non-premium","SeaView":false},
+{"numberOfFloors":1,"quality":"premium","SeaView":true},
+{"numberOfFloors":1,"quality":"non-premium","SeaView":true},
+{"numberOfFloors":2,"quality":"premium","SeaView":false},
+{"numberOfFloors":1,"quality":"non-premium","SeaView":true},
+{"numberOfFloors":2,"quality":"premium","SeaView":true}]
